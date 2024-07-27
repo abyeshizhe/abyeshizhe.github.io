@@ -7,9 +7,6 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "BEN YANG / HOMEPAGE"
-title_separator          : "-"
 name                     : &name "BEN YANG"
 description              : &description "Assistant Professor, Xi'an Jiaotong University"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
