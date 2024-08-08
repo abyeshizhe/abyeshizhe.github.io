@@ -13,7 +13,7 @@ Ben Yang is an assistant professor at the Institute of Artificial Intelligence a
 - Publications
 ---
 
-[15] > Ben Yang, Jinghan Wu, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Fast Correntropy-based Multi-view Clustering with Prototype Graph Factorization, Information Sciences, pp. 121256, 2024.
+[15] Ben Yang, Jinghan Wu, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Fast Correntropy-based Multi-view Clustering with Prototype Graph Factorization, Information Sciences, pp. 121256, 2024.
 
 [14] Jinghan Wu, Ben Yang, Jiaying Liu, Xuetao Zhang, Zhiping Lin, and Badong Chen, Efficient Correntropy-based Multi-view Clustering with Alignment Discretization, Knowledge-Based Systems, vol. 295, pp. 111768, 2024.
 
@@ -29,7 +29,7 @@ Ben Yang is an assistant professor at the Institute of Artificial Intelligence a
 
 [8]  Ben Yang, Xuetao Zhang, Feiping Nie, Badong Chen, Fei Wang, Zhixiong Nan, and Nanning Zheng, ECCA: Efficient Correntropy-based Clustering Algorithm with Orthogonal Concept Factorization, IEEE Transactions on Neural Networks and Learning Systems, vol. 34, no. 10, pp. 7377-7390, 2023.
 
-[7]  Ben Yang, Xuetao Zhang, Zhongheng Li, Feiping Nie, and Fei Wang, Efficient Multi-view K-means Clustering with Multiple Anchor Graphs, IEEE Transactions on Knowledge and Data Engineering, vol. 35, no. 7, pp. 6887-6900, 2023. 
+[7]  Ben Yang, Xuetao Zhang, Zhongheng Li, Feiping Nie, and Fei Wang, Efficient Multi-view K-means Clustering with Multiple Anchor Graphs, IEEE Transactions on Knowledge and Data Engineering, vol. 35, no. 7, pp. 6887-6900, 2023. [code](https://github.com/abyeshizhe/EMKMC)
 
 [6]  Ben Yang, Jinghan Wu, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Robust Anchor-based Multi-view Clustering via Spectral Embedded Concept Factorization, Neurocomputing, vol. 528, pp. 136-147, 2023.
 
