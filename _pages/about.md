@@ -16,7 +16,7 @@ Ben Yang is currently an assistant professor at the Institute of Artificial Inte
 [10] 
 
 
-[9]  Ben Yang, Xuetao Zhang, Jinghan Wu, Feiping Nie, Zhiping Lin, Fei Wang, and Badong Chen, Fast Multiview Anchor-Graph Clustering, IEEE Transactions on Neural Networks and Learning Systems, 2024, 
+[9]  Ben Yang, Xuetao Zhang, Jinghan Wu, Feiping Nie, Zhiping Lin, Fei Wang, and Badong Chen, Fast Multiview Anchor-Graph Clustering, IEEE Transactions on Neural Networks and Learning Systems, 2024, doi: 10.1109/TNNLS.2024.3359690.
 
 [8]  Ben Yang, Xuetao Zhang, Feiping Nie, Badong Chen, Fei Wang, Zhixiong Nan, and Nanning Zheng, ECCA: Efficient Correntropy-based Clustering Algorithm with Orthogonal Concept Factorization, IEEE Transactions on Neural Networks and Learning Systems, vol. 34, no. 10, pp. 7377-7390, 2023.
 
