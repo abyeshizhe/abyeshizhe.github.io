@@ -31,7 +31,7 @@ Ben Yang is an assistant professor at the Institute of Artificial Intelligence a
 
 [7]  Ben Yang, Xuetao Zhang, Zhongheng Li, Feiping Nie, and Fei Wang, Efficient Multi-view K-means Clustering with Multiple Anchor Graphs, IEEE Transactions on Knowledge and Data Engineering, vol. 35, no. 7, pp. 6887-6900, 2023. [code](https://github.com/abyeshizhe/EMKMC)
 
-[6]  Ben Yang, Jinghan Wu, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Robust Anchor-based Multi-view Clustering via Spectral Embedded Concept Factorization, Neurocomputing, vol. 528, pp. 136-147, 2023.
+[6]  Ben Yang, Jinghan Wu, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Robust Anchor-based Multi-view Clustering via Spectral Embedded Concept Factorization, Neurocomputing, vol. 528, pp. 136-147, 2023. [code](https://github.com/abyeshizhe/RAMCSF)
 
 [5]  Ben Yang, Xuetao Zhang, Feiping Nie, and Fei Wang, Fast Multi-view Clustering with Spectral Embedding, IEEE Transactions on Image Processing, vol. 31, pp. 3884-3895, 2022.
 
