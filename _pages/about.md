@@ -13,8 +13,17 @@ Ben Yang is currently an assistant professor at the Institute of Artificial Inte
 - Pubications
 ---
 
-[10] 
+[15] Ben Yang, Jinghan Wu, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Fast Correntropy-based Multi-view Clustering with Prototype Graph Factorization, Information Sciences, pp. 121256, 2024.
 
+[14] Jinghan Wu, Ben Yang, Jiaying Liu, Xuetao Zhang, Zhiping Lin, and Badong Chen, Efficient Correntropy-based Multi-view Clustering with Alignment Discretization, Knowledge-Based Systems, vol. 295, pp. 111768, 2024.
+
+[13] Ben Yang, Jinghan Wu, Yu Zhou, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Robust Spectral Embedded Bilateral Orthogonal Concept Factorization for Clustering, Pattern Recognition, vol. 150, pp. 110308, 2024.
+
+[12] Jinghan Wu, Ben Yang, Zhiyuan Xue, Xuetao Zhang, Zhiping Lin, and Badong Chen, Fast Multi-view Clustering via Correntropy-based Orthogonal Concept Factorization, Neural Networks, vol. 173, pp. 106170, 2024.
+
+[11] Ben Yang, Zhiyuan Xue, Jinghan Wu, Xuetao Zhang, Feiping Nie, and Badong Chen, Anchor-graph Regularized Orthogonal Concept Factorization for Document Clustering, Neurocomputing, vol. 573, pp. 127173, 2024.
+
+[10] Ben Yang, Jinghan Wu, Xuetao Zhang, Xinhu Zheng, Feiping Nie, and Badong Chen, Discrete Correntropy-based Multi-view Anchor-graph Clustering, Information Fusion, vol. 103, pp. 102097, 2024.
 
 [9]  Ben Yang, Xuetao Zhang, Jinghan Wu, Feiping Nie, Zhiping Lin, Fei Wang, and Badong Chen, Fast Multiview Anchor-Graph Clustering, IEEE Transactions on Neural Networks and Learning Systems, 2024, doi: 10.1109/TNNLS.2024.3359690.
 
