@@ -12,7 +12,7 @@ Ben Yang is an assistant professor at the Institute of Artificial Intelligence a
 ---
 - Publications
 ---
-<div style="text-align:justify">
+
 
 [15] Ben Yang, Jinghan Wu, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Fast Correntropy-based Multi-view Clustering with Prototype Graph Factorization, Information Sciences, vol. 681, pp. 121256, 2024. <br> <br>
 
@@ -43,4 +43,4 @@ Ben Yang is an assistant professor at the Institute of Artificial Intelligence a
 [2]  Ben Yang, Jinghan Wu, Aoran Sun, Naying Gao, and Xuetao Zhang, Robust Landmark Graph-based Clustering for High-dimensional Data, Neurocomputing, vol. 496, pp. 72-84, 2022. [code](https://github.com/abyeshizhe/RLGCH) <br> <br>
 
 [1]  Ben Yang, Xuetao Zhang, Feiping Nie, Fei Wang, Weizhong Yu, and Rong Wang, Fast Multi-view Clustering via Nonnegative and Orthogonal Factorization, IEEE Transactions on Image Processing, vol. 30, pp. 2575-2586, 2020. [code](https://github.com/abyeshizhe/FMCNOF) <br> <br>
-</div>
+
