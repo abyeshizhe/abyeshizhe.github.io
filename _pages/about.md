@@ -13,22 +13,19 @@ Ben Yang is an assistant professor at the Institute of Artificial Intelligence a
 - Publications
 ---
 
-<div style="text-align:justify">
-[15] Ben Yang, Jinghan Wu, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Fast Correntropy-based Multi-view Clustering with Prototype Graph Factorization, Information Sciences, vol. 681, pp. 121256, 2024. <br> <br>
-</div>
+[15] Ben Yang, Jinghan Wu, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Fast Correntropy-based Multi-view Clustering with Prototype Graph Factorization, Information Sciences, vol. 681, pp. 121256, 2024. 
 
-<div style="text-align:justify">
-[14] Jinghan Wu, Ben Yang, Jiaying Liu, Xuetao Zhang, Zhiping Lin, and Badong Chen, Efficient Correntropy-based Multi-view Clustering with Alignment Discretization, Knowledge-Based Systems, vol. 295, pp. 111768, 2024. </div> [code](https://github.com/abyeshizhe/ECMCAD) <br> <br>
+[14] Jinghan Wu, Ben Yang, Jiaying Liu, Xuetao Zhang, Zhiping Lin, and Badong Chen, Efficient Correntropy-based Multi-view Clustering with Alignment Discretization, Knowledge-Based Systems, vol. 295, pp. 111768, 2024. </div> [code](https://github.com/abyeshizhe/ECMCAD) 
 
-[13] Ben Yang, Jinghan Wu, Yu Zhou, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Robust Spectral Embedded Bilateral Orthogonal Concept Factorization for Clustering, Pattern Recognition, vol. 150, pp. 110308, 2024. [code](https://github.com/abyeshizhe/RSOCF) <br> <br>
+[13] Ben Yang, Jinghan Wu, Yu Zhou, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Robust Spectral Embedded Bilateral Orthogonal Concept Factorization for Clustering, Pattern Recognition, vol. 150, pp. 110308, 2024. [code](https://github.com/abyeshizhe/RSOCF) 
 
-[12] Jinghan Wu, Ben Yang, Zhiyuan Xue, Xuetao Zhang, Zhiping Lin, and Badong Chen, Fast Multi-view Clustering via Correntropy-based Orthogonal Concept Factorization, Neural Networks, vol. 173, pp. 106170, 2024. [code](https://github.com/abyeshizhe/FMCCF) <br> <br>
+[12] Jinghan Wu, Ben Yang, Zhiyuan Xue, Xuetao Zhang, Zhiping Lin, and Badong Chen, Fast Multi-view Clustering via Correntropy-based Orthogonal Concept Factorization, Neural Networks, vol. 173, pp. 106170, 2024. [code](https://github.com/abyeshizhe/FMCCF) 
 
-[11] Ben Yang, Zhiyuan Xue, Jinghan Wu, Xuetao Zhang, Feiping Nie, and Badong Chen, Anchor-graph Regularized Orthogonal Concept Factorization for Document Clustering, Neurocomputing, vol. 573, pp. 127173, 2024. [code](https://github.com/abyeshizhe/AROCF) <br> <br>
+[11] Ben Yang, Zhiyuan Xue, Jinghan Wu, Xuetao Zhang, Feiping Nie, and Badong Chen, Anchor-graph Regularized Orthogonal Concept Factorization for Document Clustering, Neurocomputing, vol. 573, pp. 127173, 2024. [code](https://github.com/abyeshizhe/AROCF) 
 
-[10] Ben Yang, Jinghan Wu, Xuetao Zhang, Xinhu Zheng, Feiping Nie, and Badong Chen, Discrete Correntropy-based Multi-view Anchor-graph Clustering, Information Fusion, vol. 103, pp. 102097, 2024. <br> <br>
+[10] Ben Yang, Jinghan Wu, Xuetao Zhang, Xinhu Zheng, Feiping Nie, and Badong Chen, Discrete Correntropy-based Multi-view Anchor-graph Clustering, Information Fusion, vol. 103, pp. 102097, 2024. 
 
-[9]  Ben Yang, Xuetao Zhang, Jinghan Wu, Feiping Nie, Zhiping Lin, Fei Wang, and Badong Chen, Fast Multiview Anchor-Graph Clustering, IEEE Transactions on Neural Networks and Learning Systems, 2024, doi: 10.1109/TNNLS.2024.3359690. <br> <br>
+[9]  Ben Yang, Xuetao Zhang, Jinghan Wu, Feiping Nie, Zhiping Lin, Fei Wang, and Badong Chen, Fast Multiview Anchor-Graph Clustering, IEEE Transactions on Neural Networks and Learning Systems, 2024, doi: 10.1109/TNNLS.2024.3359690. 
 
 [8]  Ben Yang, Xuetao Zhang, Feiping Nie, Badong Chen, Fei Wang, Zhixiong Nan, and Nanning Zheng, ECCA: Efficient Correntropy-based Clustering Algorithm with Orthogonal Concept Factorization, IEEE Transactions on Neural Networks and Learning Systems, vol. 34, no. 10, pp. 7377-7390, 2023. <br> <br>
 
@@ -44,5 +41,5 @@ Ben Yang is an assistant professor at the Institute of Artificial Intelligence a
 
 [2]  Ben Yang, Jinghan Wu, Aoran Sun, Naying Gao, and Xuetao Zhang, Robust Landmark Graph-based Clustering for High-dimensional Data, Neurocomputing, vol. 496, pp. 72-84, 2022. [code](https://github.com/abyeshizhe/RLGCH) <br> <br>
 
-[1]  Ben Yang, Xuetao Zhang, Feiping Nie, Fei Wang, Weizhong Yu, and Rong Wang, Fast Multi-view Clustering via Nonnegative and Orthogonal Factorization, IEEE Transactions on Image Processing, vol. 30, pp. 2575-2586, 2020. [code](https://github.com/abyeshizhe/FMCNOF) <br> <br>
+[1]  Ben Yang, Xuetao Zhang, Feiping Nie, Fei Wang, Weizhong Yu, and Rong Wang, Fast Multi-view Clustering via Nonnegative and Orthogonal Factorization, IEEE Transactions on Image Processing, vol. 30, pp. 2575-2586, 2020. [code](https://github.com/abyeshizhe/FMCNOF) 
 
