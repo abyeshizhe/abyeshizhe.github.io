@@ -15,7 +15,7 @@ Ben Yang is an assistant professor at the Institute of Artificial Intelligence a
 
 [15] Ben Yang, Jinghan Wu, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Fast Correntropy-based Multi-view Clustering with Prototype Graph Factorization, Information Sciences, vol. 681, pp. 121256, 2024. 
 
-[14] Jinghan Wu, Ben Yang, Jiaying Liu, Xuetao Zhang, Zhiping Lin, and Badong Chen, Efficient Correntropy-based Multi-view Clustering with Alignment Discretization, Knowledge-Based Systems, vol. 295, pp. 111768, 2024. </div> [code](https://github.com/abyeshizhe/ECMCAD) 
+[14] Jinghan Wu, Ben Yang, Jiaying Liu, Xuetao Zhang, Zhiping Lin, and Badong Chen, Efficient Correntropy-based Multi-view Clustering with Alignment Discretization, Knowledge-Based Systems, vol. 295, pp. 111768, 2024. [code](https://github.com/abyeshizhe/ECMCAD) 
 
 [13] Ben Yang, Jinghan Wu, Yu Zhou, Xuetao Zhang, Zhiping Lin, Feiping Nie, and Badong Chen, Robust Spectral Embedded Bilateral Orthogonal Concept Factorization for Clustering, Pattern Recognition, vol. 150, pp. 110308, 2024. [code](https://github.com/abyeshizhe/RSOCF) 
 
