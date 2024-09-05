@@ -23,7 +23,7 @@ Ben Yang is an assistant professor at the Institute of Artificial Intelligence a
 
 [11] Ben Yang, Zhiyuan Xue, Jinghan Wu, Xuetao Zhang, Feiping Nie, and Badong Chen, Anchor-graph Regularized Orthogonal Concept Factorization for Document Clustering, Neurocomputing, vol. 573, pp. 127173, 2024. [code](https://github.com/benyangxjtu/AROCF) 
 
-[10] Ben Yang, Jinghan Wu, Xuetao Zhang, Xinhu Zheng, Feiping Nie, and Badong Chen, Discrete Correntropy-based Multi-view Anchor-graph Clustering, Information Fusion, vol. 103, pp. 102097, 2024. 
+[10] Ben Yang, Jinghan Wu, Xuetao Zhang, Xinhu Zheng, Feiping Nie, and Badong Chen, Discrete Correntropy-based Multi-view Anchor-graph Clustering, Information Fusion, vol. 103, pp. 102097, 2024. [code](https://github.com/benyangxjtu/DCMAC)
 
 [9]  Ben Yang, Xuetao Zhang, Jinghan Wu, Feiping Nie, Zhiping Lin, Fei Wang, and Badong Chen, Fast Multiview Anchor-Graph Clustering, IEEE Transactions on Neural Networks and Learning Systems, 2024, doi: 10.1109/TNNLS.2024.3359690. 
 
